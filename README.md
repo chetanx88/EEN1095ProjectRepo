@@ -128,3 +128,10 @@ pip install -r requirements.txt
 2. Balakrishnan et al. (2019) — VoxelMorph
 3. Salari et al. (2024) — DINOMotion
 4. Lombardo et al. (2025) — TrackRAD2025 dataset
+
+## Model Checkpoints
+
+| File | Link |
+|---|---|
+| `unet_conditioned_best.pth` (Best U-Net, Dice 0.9409) | [Download]([YOUR_DRIVE_LINK](https://drive.google.com/file/d/1hhw7kG_Y81lCFfUlLevbCJ8Gj4kISsgB/view?usp=sharing)) |
+| `voxelmorph_best.pth` (Best VoxelMorph, NCC -0.4619) | [Download]([YOUR_DRIVE_LINK](https://drive.google.com/file/d/1FF0yJKt36jJb959EbeOTNV7e0xLb8Ilf/view?usp=sharing)) |
